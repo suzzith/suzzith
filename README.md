@@ -1,16 +1,17 @@
-## Hi there 👋
+# 👋 Hi, I'm Sujith
 
-<!--
-**suzzith/suzzith** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Aspiring Machine Learning Engineer  
+💻 Currently learning: Python, DSA, Linear Algebra, and ML  
+🚀 Building real-world AI projects  
+📂 Check out my ML progress: [ML-Math-DSA](https://github.com/suzzith/ML-Math-DSA)
 
-Here are some ideas to get you started:
+## 🧠 Skills
+- Python, NumPy, Pandas
+- Scikit-learn, Matplotlib
+- Git & GitHub
+- Machine Learning Algorithms
+- Building AI Models and APIs (soon)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📈 Current Goal
+Crack my first AI/ML engineer role and build real impact using ML 💪
+
