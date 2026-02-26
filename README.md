@@ -1,17 +1,23 @@
-# 👋 Hi, I'm Sujith
+# Hi, I'm Sujith 👋
 
-🎓 Aspiring Machine Learning Engineer  
-💻 Currently learning: Python, DSA, Linear Algebra, and ML  
-🚀 Building real-world AI projects  
-📂 Check out my ML progress: [ML-Math-DSA](https://github.com/suzzith/ML-Math-DSA)
+Machine Learning Engineer focused on building end-to-end ML systems.
 
-## 🧠 Skills
-- Python, NumPy, Pandas
-- Scikit-learn, Matplotlib
-- Git & GitHub
-- Machine Learning Algorithms
-- Building AI Models and APIs (soon)
+## 🚀 What I Do
+- Build and deploy ML models using Python & Flask
+- Develop real-world AI applications
+- Work with Random Forest, NLP, Computer Vision
+- Design REST APIs for ML inference
 
-## 📈 Current Goal
-Crack my first AI/ML engineer role and build real impact using ML 💪
+## 🛠 Tech Stack
+Python | SQL | Scikit-learn | Flask | NumPy | Pandas | OpenCV | Git
+
+## 🔥 Featured Projects
+- Loan Approval Prediction System (Random Forest + Flask API)
+- Sign Language Recognition System (Computer Vision)
+- Neural Network API (Built from scratch)
+
+## 📈 Currently Improving
+- Model optimization
+- PyTorch
+- System design for ML
 
